@@ -1,0 +1,5 @@
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\CommonComponents\bin\Debug\CommonComponents.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\CommonComponents\bin\Debug\CommonComponents.pdb
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\CommonComponents\obj\Debug\CommonComponents.csprojResolveAssemblyReference.cache
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\CommonComponents\obj\Debug\CommonComponents.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\CommonComponents\obj\Debug\CommonComponents.pdb

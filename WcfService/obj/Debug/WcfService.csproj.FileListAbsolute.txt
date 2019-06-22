@@ -1,0 +1,6 @@
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\WcfService\bin\Debug\WcfService.dll.config
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\WcfService\bin\Debug\WcfService.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\WcfService\bin\Debug\WcfService.pdb
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\WcfService\obj\Debug\WcfService.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\WcfService\obj\Debug\WcfService.pdb

@@ -1,0 +1,10 @@
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\BusinessComponents.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\BusinessComponents.pdb
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\obj\Debug\BusinessComponents.csprojResolveAssemblyReference.cache
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\obj\Debug\BusinessComponents.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\obj\Debug\BusinessComponents.pdb
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\DataAccess.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\Entities.dll
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\DataAccess.pdb
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\EntityFramework.xml
+C:\Users\sqli\Documents\Visual Studio 2015\Projects\Sqli_GD_Tarkett\BusinessComponents\bin\Debug\Entities.pdb
